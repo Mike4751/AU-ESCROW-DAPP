@@ -1,0 +1,8 @@
+escrow/artifacts
+cache
+node_modules
+artifacts
+*.bck
+.env
+coverage
+coverage.json
